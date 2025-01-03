@@ -1,5 +1,7 @@
 #bsc_dpdm24
 SIDS KKU Data Preparation and Data Mining
+
+
 Grading Top25% A : B+ - D ตามเกณฑ์
 Work | Details | Scores
 -----|-----|-----
