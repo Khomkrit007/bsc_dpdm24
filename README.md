@@ -16,4 +16,7 @@ GitHub|ความสวยงามและถูกต้อง| 5%|
 ## Chapter 1 Introduction to Data Mining
 ## Chapter 2 Getting to Know Your Data And Quiz 2
 [Click Here](https://github.com/Khomkrit007/bsc_dpdm24/blob/main/Chapter_2_Understanding_Data.ipynb)
-## Chapter 3 Data Preprocessing
+## Chapter 3 Data Preprocessing , HW1 and HW2
+[Click Here](https://github.com/Khomkrit007/bsc_dpdm24/blob/main/Data_Preprocessing.ipynb)
+##Midterm
+[Click Here](https://github.com/Khomkrit007/bsc_dpdm24/blob/main/midterm_dpdm24.ipynb)
